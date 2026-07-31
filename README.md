@@ -26,6 +26,8 @@
 3. [Slide 3](https://docs.google.com/presentation/d/13CNMUaoAgGuJWlhCoj8_T16uPVne7IHy/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Slide 4](https://docs.google.com/presentation/d/1b8jbaOxU0Hse3ybMERHTZk6eM2KP6ZaU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 5. [Slide 5](https://docs.google.com/presentation/d/1pkyvJljBFrCPQUYo1pZYWXlLaVUiFShf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+6. [Slide 6, Design](https://docs.google.com/presentation/d/1M3Y2Yr_YYggDcSXEwQymXtJTPRYNxeP7/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+7. [Slide 7, SRS](https://docs.google.com/presentation/d/1S2rU2ggBj1eK-TLrTq7WMwbFKQsGpSy1/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 # Obaject Oriented Programming (java)
 > <h2> Slides </h2>
