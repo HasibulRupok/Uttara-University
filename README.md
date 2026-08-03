@@ -10,6 +10,7 @@
 6. [Genetic Algorithm](https://docs.google.com/presentation/d/130OJVYBj6tW1AN4zIPVEnFCiLr8cj1Zl/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 7. [Game Theory](https://docs.google.com/presentation/d/1s2UGIA3eRZ8AB7U_FOlKSIFdA1_PYT8H/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 8. [Probability](https://docs.google.com/presentation/d/1ieyGJeEykavlyabDZQT9EW-_w60tu9Nb/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+9. [Decision Tree](https://docs.google.com/presentation/d/1LYMx9xpxUbnbeTxD8jdBn_3VmOarDaP8UD3riDc00mA/edit?usp=sharing)
 
 <hr>
 
